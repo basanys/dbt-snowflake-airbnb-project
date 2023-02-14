@@ -1,4 +1,4 @@
-profiles/
+profiles/profiles.yml
 target/
 dbt_packages/
 logs/
